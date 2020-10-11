@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Exodus-PersonalUse-Striped';
+    src: url('fonts/Exodus-PersonalUse-Regular/Exodus-PersonalUse-Striped.otf');
+}
+
+@font-face {
+    font-family: 'Exodus-PersonalUse-Stencil';
+    src: url('fonts/Exodus-PersonalUse-Regular/Exodus-PersonalUse-Stencil.otf');
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    height: 500px;
+}
+
+.hardSkills {
+    font-family: 'Exodus-PersonalUse-Striped';
+}
+.simpleBody {
+    font-family: 'Exodus-PersonalUse-Striped';
+}
+
+.table  {
+    border-collapse: collapse;
+}
